@@ -1,2 +1,3 @@
-# jean-carlos-ecommerce-react-firebase
-Tutorial Firebase com React Funcional - 2023.1
+# Tutorial Ecommerce feito com React e com Integração ao Firebase
+
+Link do Tutorial: 
